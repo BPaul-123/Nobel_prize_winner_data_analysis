@@ -1,7 +1,7 @@
 
-###### This project analyzes Nobel Prize data, exploring features like birth country, category, age, gender, and organization. The purpose is to identify trends in laureates’ demographics, prize distribution, and organizational affiliations.
+##### This project analyzes Nobel Prize data, exploring features like birth country, category, age, gender, and organization. The purpose is to identify trends in laureates’ demographics, prize distribution, and organizational affiliations.
 
 ##### This analysis of Nobel Prize data reveals several interesting patterns. Most laureates were born in the United States, the United Kingdom, France, and Germany, with cities like New York, Paris, and London producing a significant number of winners. While the majority of laureates are male, female winners have gradually increased over time. Medicine and Physics have historically had the most laureates, while Economics has the fewest. The ages of winners are generally between 50 and 70 years, with Chemistry, Literature, Medicine, and Physics showing a slight upward trend over the years, Peace winners becoming slightly younger, and Economics remaining relatively stable. Malala Yousafzai is the youngest laureate in the Peace category, and John B. Goodenough is the oldest in Chemistry. Additionally, analysis of organizational affiliations shows that many Nobel-winning discoveries are linked to institutions in Belgium, Canada, and Australia, highlighting global research hubs. Over time, the average number of prizes awarded per year has grown, but the average prize share per laureate has slightly declined, indicating that prizes are increasingly shared among multiple recipients.
 
 
-####### This project was completed as part of a Python course on Udemy.
+* This project was completed as part of a Python course on Udemy.
